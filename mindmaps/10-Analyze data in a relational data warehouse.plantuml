@@ -54,6 +54,10 @@
 ++++_ Fact, Dimension and Staging tables
 ++++_ Data integrity constraints
 ++++_ Indexes
++++++_ Clustered Columnstore Index (default)
++++++_ Clustered
++++++_ Non-Clustered
++++++_ Heap
 ++++_ Distribution
 +++++_ Hash (fact tables)
 +++++_ Round-robin (staging tables)
